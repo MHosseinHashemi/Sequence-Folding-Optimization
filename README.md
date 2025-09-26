@@ -78,4 +78,10 @@ The GA successfully identified low-energy conformations for the insulin sequence
 <img width="1000" alt="Screenshot 2025-04-11 011518" src="https://github.com/user-attachments/assets/8890edaa-9a49-49dc-bcc3-57eb3a1a9ab5" />
 <img width="1000" alt="Screenshot 2025-04-11 011518" src="https://github.com/user-attachments/assets/f8197b78-1ab5-4e7f-9113-5a76dbe883e2" />
 
+---
+
+**@Acknowledgement**
+
+This readme while supervised by the repo owner, is written by GPT-5. Hence, if you wanted to integrate or use it, double check the source code.
+
 
